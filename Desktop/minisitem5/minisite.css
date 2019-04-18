@@ -1,0 +1,350 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.row{
+  display:flex;
+  justify-content:flex-start;
+  align-items:stretch;
+  flex-wrap:nowrap;
+  padding:10px;
+}
+.navbar{
+  background-color:#222;
+  color:#ddd;
+  min-height:50px;
+  width:100%;
+}
+#logo-m5{
+  height:30px;
+}
+#logo-soundrhythm{
+  height:15px;
+  margin-top:10px;
+  margin-left:15px;
+  margin:7px 0 0 15px;
+}
+#about{
+  text-align:justify;
+  padding-top:30px;
+  letter-spacing:2px;
+  font-weight:100;
+  margin:13px 0 16px 1px;
+  padding:4px 5px 0 7px;
+}
+#videos{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+  font-size:32px;
+}
+#term{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+}
+#ticket{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+}
+#partner{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+}
+#promotor{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+}
+#contactus{
+  text-align:center;
+  letter-spacing:2px;
+  padding-top:10px;
+}
+#m51{
+  /* height:400px; */
+  width:400px;
+  padding-top:100px;
+}
+.ticket-m5{
+  margin-top:30px;
+  margin-left:500px;
+  margin-bottom:30px;
+  margin:30px 0 30px 500px;
+}
+.terms{
+  margin-top:20px;
+  letter-spacing:2px;
+  margin-left:10px;
+  font-size:15px;
+  margin-right:10px;
+  font-weight:100;
+}
+.terms li{
+  line-height:1.5;
+}
+.terms p{
+  margin:0;
+}
+.faq{
+  margin-top:20px;
+}
+.logo-promotor{
+  width:400px;
+  margin-left:520px;
+}
+.promoted{
+  margin-left:30px;
+  margin-right:40px;
+  font-weight:100;
+}
+.ourpartner{
+  margin-top:20px;
+  margin-left:650px;
+  letter-spacing:2px;
+  font-size:20px;
+  margin-bottom:20px;
+  width:200px;
+  font-weight:100;
+  margin:20px 0 20px 630px;
+}
+#row1{
+  margin-top:30px;
+  margin-left:300px;
+}
+#ijc1c3{
+  width:100%;
+}
+#banner-m5{
+  width:100%;
+}
+#if4ys9{
+  color:red;
+}
+#iu66l1{
+  color:red;
+}
+#iiu46f{
+  color:red;
+}
+#i5e0gr{
+  color:red;
+}
+#imbnqf{
+  color:red;
+}
+#itmgsp{
+  color:red;
+}
+#ixvpct{
+  color:red;
+}
+#ihvu44{
+  color:red;
+}
+#iax11u{
+  color:red;
+}
+#ig5wei{
+  color:red;
+}
+#igd0gn{
+  color:red;
+}
+#iy82b7{
+  color:red;
+}
+#idu9hu{
+  color:red;
+}
+#ijo8h4{
+  color:red;
+}
+#ihkzeg{
+  color:red;
+}
+#i4wddi{
+  color:red;
+}
+#izhnx1{
+  color:red;
+}
+#i9bdf5{
+  width:200px;
+}
+.navbar-nav.mr-auto{
+  margin:0 471px 0 0;
+  padding:0 9px 0 0;
+}
+.btn.btn-outline-dark{
+  margin-top:10px;
+  margin-left:650px;
+  margin-bottom:30px;
+  margin:9px 0 30px 650px;
+  font-weight:100;
+}
+.col-sm{
+  margin-top:30px;
+  font-weight:100;
+}
+#iocqhv{
+  text-align:left;
+}
+#imlfde{
+  font-weight:100;
+  text-align:left;
+}
+#ixe9zl{
+  font-weight:100;
+}
+#ifp1xl{
+  color:black;
+  width:15px;
+  height:15px;
+  margin:0 0 0 0;
+}
+#iedw7l{
+  color:black;
+  width:15px;
+  height:15px;
+}
+#ifk6va{
+  color:black;
+  width:15px;
+  height:15px;
+}
+@media (max-width: 992px){
+  .embed-responsive.embed-responsive-16by9{
+    margin:0 0 0 1px;
+  }
+  .col-6.col-md-4{
+    padding:100px 14px 0 15px;
+    max-width:51%;
+  }
+  .ticket-m5{
+    margin:30px 0 30px 150px;
+  }
+  .btn.btn-outline-dark{
+    margin:9px 0 30px 300px;
+  }
+  .logo-promotor{
+    margin:0 0 0 200px;
+  }
+  .ourpartner{
+    margin:20px 0 20px 300px;
+  }
+  .col-sm{
+    margin:30px 0 0 -1px;
+    padding:0 15px 0 15px;
+  }
+  #idygcq{
+    margin:0 -15px 0 -300px;
+  }
+  #iocqhv{
+    float:none;
+    text-align:justify;
+  }
+}
+@media (max-width: 768px){
+  .row{
+    flex-wrap:wrap;
+  }
+}
+@media only screen and (max-width: 600px){
+  #logo-m5{
+    height:20px;
+    width:100px;
+    margin-top:20px;
+  }
+  #logo-soundrhythm{
+    height:15px;
+    width:200px;
+  }
+}
+@media (max-width: 480px){
+  #banner-m5{
+    margin:55px 0 0 0;
+  }
+  #about{
+    font-size:12px;
+  }
+  .col-6.col-md-4{
+    margin:0 0 0 66px;
+  }
+  .embed-responsive.embed-responsive-16by9{
+    width:200px;
+    height:100px;
+    margin:-15px 0 0 -34px;
+  }
+  .ticket-m5{
+    width:250px;
+    height:auto;
+    margin:30px 0 30px 33px;
+  }
+  .btn.btn-outline-dark{
+    margin:9px 0 30px 100px;
+  }
+  #ir2uwp{
+    padding:0 0 0 0;
+  }
+  .terms{
+    font-size:10px;
+    padding:0 0 0 26px;
+  }
+  #videos{
+    font-size:20px;
+  }
+  #ticket{
+    font-size:20px;
+  }
+  #term{
+    font-size:20px;
+  }
+  #promotor{
+    font-size:20px;
+  }
+  .logo-promotor{
+    width:200px;
+    margin:0 0 0 52px;
+  }
+  .promoted{
+    font-size:12px;
+  }
+  #partner{
+    font-size:20px;
+  }
+  .ourpartner{
+    margin:20px 0 20px 62px;
+    font-size:12px;
+    text-align:center;
+  }
+  #contactus{
+    font-size:20px;
+  }
+  .col-sm{
+    width:200px;
+    padding:0 15px 0 17px;
+    margin:50px -148px 0 300px;
+  }
+  #iq8u0z{
+    margin:0 0 16px 2px;
+  }
+  #idygcq{
+    margin:0 -14px 0 -255px;
+  }
+  #imlfde{
+    text-align:center;
+  }
+  #iocqhv{
+    text-align:center;
+  }
+  #ixe9zl{
+    text-align:center;
+  }
+}
+
